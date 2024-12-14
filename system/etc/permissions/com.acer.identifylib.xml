@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+    <library name="com.acer.identifylib"
+            file="/system/framework/com.acer.identifylib.jar" />
+</permissions>
+

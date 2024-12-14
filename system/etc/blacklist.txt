@@ -1,0 +1,6 @@
+com.neostra.soundrecording
+com.neostra.soundrecording.MainActivity
+com.k_phone.mmitest
+com.k_phone.mmitest.MmiTestMain
+com.neostra.pmutest
+com.neostra.pmutest.MainActivity

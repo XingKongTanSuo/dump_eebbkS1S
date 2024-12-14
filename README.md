@@ -1,0 +1,20 @@
+## full_neostra8167_tb_n-user 7.0 NRD90M 1528788477 release-keys
+- Manufacturer: eebbk
+- Platform: mt8167
+- Codename: S1S
+- Brand: EEBBK
+- Flavor: full_S1S-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: 1528788477
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: zh-CN
+- Screen Density: 160
+- Fingerprint: acer/B1-870_ww_gen1/acer_Zipp:7.0/NRD90M/1528788477:user/release-keys
+- OTA version: 
+- Branch: full_neostra8167_tb_n-user-7.0-NRD90M-1528788477-release-keys
+- Repo: eebbk_s1s_dump
